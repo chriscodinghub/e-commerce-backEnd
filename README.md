@@ -23,7 +23,7 @@ Chris Davis, chriscodinghub
 
 
 
-## Link to launched page of app
+## Link to demo video of app
 [e-commerce-backEnd.webm](https://github.com/chriscodinghub/e-commerce-backEnd/assets/144561170/91eaf4b1-dab1-4fb2-85f4-9a652ec00975)
 
 
