@@ -8,9 +8,9 @@ Chris Davis, chriscodinghub
 
 ## I would like to start with a list of things I learned on this project.
 
-+ I learned how to format models for DB storage
++ I learned how to format models for DB storage.
 + I learned how to create and utilize API routes.
-+ I learned how to test and confirm API routes via Insomnia
++ I learned how to test and confirm API routes via Insomnia.
 
 ## Functions of my App
 + This app is backEnd functioning only.
@@ -24,8 +24,7 @@ Chris Davis, chriscodinghub
 
 
 ## Link to launched page of app
-[e-commerce-backEnd video](https://drive.google.com/file/d/1AzeTvJYAWTRnmmIBH_p7xjdnzLaWHlRQ/view)
-
+[e-commerce-backEnd.webm](https://github.com/chriscodinghub/e-commerce-backEnd/assets/144561170/91eaf4b1-dab1-4fb2-85f4-9a652ec00975)
 
 
 ## Date
